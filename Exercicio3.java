@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Informe a média da soma dos números informados.
  */
 
-public class Ecercicio3 {
+public class Exercicio3 {
 
     public static void main(String[] args) {
         
